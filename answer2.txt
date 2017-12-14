@@ -1,0 +1,1 @@
+My computational complexity of my answer in Question 1 is O(n^2). This is because my program run as a nested loop in 2 layer,which is O(n) for each layer for loop. And 2 layer for loop equals to O(n*n)=O(n^2)
